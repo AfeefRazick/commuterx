@@ -16,7 +16,7 @@ Welcome to CommuterX, a website designed to help people find and track buses and
 
 To use CommuterX, follow these steps:
 
-1. Visit the CommuterX website at [Firebase website link](no link boss!) from your mobile device.
+1. Visit the CommuterX website at [https://commuterx.web.app/](https://commuterx.web.app/) from your mobile device.
 
 2. Allow the website to access your device's location. This permission is necessary for CommuterX to determine your current location and provide accurate information.
 
